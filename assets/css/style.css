@@ -84,3 +84,21 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+.Locations{
+    list-style-type: none;
+}
+.current-page{
+    color:darkred;
+}
+footer {
+    width: 100%;
+    padding: 25px;
+    background-color: green;
+}
+footer p {
+    color: white;
+}
+#holiday {
+    width: 100%;
+    padding: 15px;
+    background-color: yellow;
